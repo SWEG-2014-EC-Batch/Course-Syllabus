@@ -1,6 +1,7 @@
 ## Course Materials
 
 ### Chapter One: The Internet and the Web
+- Topics
 - Lecturer Notes 
 - Additional Resources 
 
