@@ -52,4 +52,20 @@ Listen to Part 1 (starts around 8:30) and Part 2 of Security Now Podcast’s How
 Consider buying the book Tubes: Behind the Scenes at the Internet.
 If you’re in for a bit more reading, you can check out the Introduction to HTTP online book at LaunchSchool. This book also touches on some topics covered later in the curriculum, such as developer tools and security. Additionally, you can learn about HTTP tools, which you may find helpful in the future.
 Explore how fiber optics uses light to transmit data over long distances, and with integrated photonics, expands our virtual world beyond the internet. The hidden network that makes the internet possible.
-Some advice on reading: We recommend that you only review the immediate links posted in our curriculum. You can always go deeper on any subject if you wish, but be careful not to overload yourself on information!
+Some advice on reading: We recommend that you only review the immediate links posted in our curriculum. You can always go deeper on any subject if you wish, but be careful not to overload yourself on information!]
+
+
+[Web infrastructure](https://www.youtube.com/watch?v=lQNEW76KdYg&t=13s)
+[Network Protocols](https://www.techtarget.com/searchnetworking/definition/protocol)
+[What Is an IP Address?](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm)
+[TCP/IP](https://www.techtarget.com/searchnetworking/definition/TCP-IP)
+
+### What is a web server?
+- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
+- https://www.techtarget.com/whatis/definition/Web-server
+- https://en.wikipedia.org/wiki/Web_server
+- https://www.youtube.com/watch?v=B1ANfsDyjeA
+- https://en.wikipedia.org/wiki/Server_(computing)#Hardware_requirement
+
+
+
