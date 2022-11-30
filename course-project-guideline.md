@@ -62,8 +62,10 @@ The project work is divided into four phases as described in the table below
 
 **Note:** *The details rubrics will be provided in separate document.*
 
-### Authors
+## Authors
 * Chere L. (M. Tech) 
-* Biruk G. (MSc.)		                     
+* Biruk G. (MSc.)		                    
 
-Last modified on Nov 25, 2022**
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
