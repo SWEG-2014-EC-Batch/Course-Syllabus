@@ -68,4 +68,4 @@ The project work is divided into four phases as described in the table below
 
 ------
 
-_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/AASTU-SWEG-2022-IP/Course-Materials/issues)._
