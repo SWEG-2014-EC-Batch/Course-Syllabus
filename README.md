@@ -79,3 +79,6 @@ At the end of the course the student will be able to do:
 * JavaScript Tutorial - https://www.javascripttutorial.net/
 * Web.Dev - https://web.dev/learn/
 
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/AASTU-SWEG-2022-IP/Course-Materials/issues)._
