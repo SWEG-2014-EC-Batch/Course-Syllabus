@@ -1,83 +1,105 @@
-## Course Syllabus
+## Fundamentals of Programming I (Course Syllabus)
 
 ### Course Description
 
-This course is the first course for the complete web design and web development course. This course mainly focuses on four major topics ofno web design and web development concepts. Accordingly, chapter one discusses an overview of the Internet and World Wide Web Technology: Client-Server architecture, HTTP Protocol, Web page design, and development, chapter two and three present hypertext and scripting languages (HTML), chapter four and five discuss styling web pages layout (CSS) and adding interactivity to the web-app respectively. The last chapter highlights web security issues.  
+Computer programming involves various activities such as understanding and analysis of problems, algorithm design, verification of requirements of algorithms including their correctness and resources consumption, and coding of algorithms. This course is designed to allow students to acquire the three basic skills of programming: problem solving skill (understand how they solve problems), algorithmic skill (knowing how to write the steps of their proposed solutions to specific problems), language skill (learning how to put the solutions in to code and communicate it to the machine).
+
+More specifically as an introduction, this course designed to introduce students to an overview of the different concepts of programming and problem-solving strategies.  Moreover, the learners will be able to identify and demonstrate the basic programming constructors like Variables, Reserved words, Syntax diagram, Constant declarations, Data types, and also the concepts of various programming techniques such as, Conditional statements, Loops, array, strings, pointers (static and dynamic memory management), Error types and error debugging techniques. For each topic, some coding guidelines will be discussed.  
 
 ### Course Learning Outcome (CLO): 
 At the end of the course the student will be able to do:
-* Interpret web protocol, design, and development of web-based application
-* Use modern tools and techniques for developing web-based applications.
-* Create web pages by defining the structure of documents that have content styles and interactive elements with the help of HTML, CSS, and JavaScript.
-* Construct web-based solutions and engage in independent and lifelong learning with the broad scope of Internet programming.
+* CLO1	Identify the basic concepts of programming and program development process 
+* CLO2	Demonstrate problem solving skills by analyzing a variety of real-world problems using program solving techniques (flow chart and pseudo code).
+* CLO3	Identify and apply the basic programming constructors’ and the various programming techniques such as control statements, loops, arrays and pointers in solving problems.
+* CLO4	Develop, debug and test small scale applications 
+
+
+### Chapter 1: Basic Concepts of programming
+
+#### 1.1 Basics of Program Development
+   - Computer programming 
+   - Programming Languages
+   - Reasons to study programming
+   - Programming Paradigms
+   - Program Development Life Cycle (SDLC)
+ 
+#### 1.2 Fundamentals of problem-solving techniques 
+   - Problem Analysis 
+   - Algorithm design
+   - Flow chart and pseudo code
+
+### Chapter 2: Basic of Programming
+
+  #### 2.1 Structure (Anatomy) of a program
+  #### 2.2 Compilation process 
+  #### 2.3 Preprocessor and Library functions 
+  #### 2.4 Basic Elements of a high-level programming 
+   - Basic Input/output stream 
+   - Variables, and Data types
+   - Reserved words
+   - Constants and Literals
+   - Operators and expression 
+  #### 2.6 Formatted Input-Output
+  #### 2.7 Programming Errors and Debugging
+
+
+### Chapter 3: Program Flow of Control
+
+  #### 3.1 An overview of program flow 
+  #### 3.2 Basics of Logic expression 
+  #### 3.3 Selection Statements
+  - if selection statements (if, if...else, if…else if…else)
+  - Switch statement 
+  #### 3.2 loops 
+   - Loop Basics
+   - Loop Statements: for Loop, while loop, do…while loop
+   - Other flow controls: continue, break, go to and jump
+   - Program termination statements 
 
 
 
-### Chapter 1: The Internet and the Web
-- Revision on Networks and the Internet
-- The Web (WWW)
-   - Web terminologies 
-   - Components of the Web
-   - How the web works?
-   -  Web architecture 
-- Uniform resource locators
-- Web protocols
-    - Hyper Text Transfer Protocol (HTTP)
-    - Domain Name System
-- Web accessibility ‘
-- Web Security
-- Web programmer’s toolbox
+### Chapter 4: Arrays and Strings
 
-### Chapter 2: Basics of HTML
-- Origin and evolution of HTML and XHTML
-- HTML Boilerplate and Basic Syntax 
-- Text markups – heading, paragraph, lists
-- Hypertext Links and file paths
-- Working with multimedia 
-- Fonts, Colors, and Backgrounds
-- HTML5 semantics elements
-- Web accessibility testing
+  #### 4.1 Array Basics 
+   - Definition of Arrays
+   - Types of Arrays: One Dimensional Arrays and Multi-dimensional Arrays
+   - Declaration and initialization of Arrays
+   - Accessing and processing Arrays
+  #### 4.2 Basics of Strings 
+   - Definition of String
+   - Declaration and initialization of strings 
+   - String manipulation and operation
+     - String function basics
+     - More on String Functions
 
-### Chapter 3: Advanced HTML Concepts
-- HTML Tables
-- iFrames
-- Working HTML Forms
-- Forms Validation
-- HTML Graphics
 
-### Chapter 4: CSS
-- Introduction
-- CSS Basics
-- CSS Selectors
-- The Box Model
-- CSS Responsive: Flex and Grid
-- Inspecting HTML and CSS
-- Responsive web design frameworks
-- An overview of CSS preprocessor and frameworks
 
-### Chapter 5: Responsive Web Design
-- Basics of Client-side-side Scripting 
-- JS Variables, Expression, and Flow Controls
-- JS Array and Objects
-- JS Functions
-- Document Object Model (DOM)
-- Handling Events 
-- User Inputs, and Form Processing
-- Local storage and HTML API
-- An overview of JavaScript frameworks 
+### Chapter 5: Pointers 
+
+  #### 5.1 Introduction to memory management 
+  #### 5.2 Pointer definition 
+  #### 5.3 Pointer implementation 
+  #### 5.4 Pointers arithmetic and Arrays
+  #### 5.5 Dynamic memory allocation
+
+
 
 ### Textbooks and References
-* P. Deitel, H. Deitel and A Deitel,” Internet and World Wide Web: How to Program”, USA: Pearson Education, Prentice Hall, 5th Edition.
-* Chuck Musciano and Bill Kennedy(2006), “HTML & XHTML The Definitive Guide “, USA: O’Reilly Media, 6th Edition 
-* Terry Ann Felke-Morris; “Web Development and Design Foundations with HTML5”, USA: Pearson Education, Addison-Wesley, 8th Edition.
-* ROBERT W. SEBESTA , “PROGRAMMING THE WORLD WIDE WEB “, USA: Pearson Education, Addison-Wesley, 6th Edition.
+
+* Problem Solving With C++ [10th edition, University of California, San Diego, 2018; Walter Savitch;
+* An Introduction to Programming with C++ (8th Edition), 2016 Cengage Learning; Diane Zak
+* C++ how to program, 10th edition, Global Edition (2017); P. Deitel , H. Deitel
+* Flowchart and Algorithm Basics: The Art of Programming, (2020), A. B. Chaudhuri
+
 
 ### Online Resources
-* MDN Web Docs - https://developer.mozilla.org/en-US/docs/Learn
-* W3Schools - https://www.w3schools.com/
-* freecode camp - https://www.freecodecamp.org/learn/2022/responsive-web-design/
-* JavaScript Tutorial - https://www.javascripttutorial.net/
-* Web.Dev - https://web.dev/learn/
+- [Learn C++ Programming](https://www.programiz.com/cpp-programming)
+- [C++ Tutorial (W3Schools.com](https://www.w3schools.com/cpp/default.asp)
+- [C++ Tutorial (tutorialspoint.com)](https://www.tutorialspoint.com/cplusplus/index.htm)
+- [C++ Tutorial (JavaPoint.com)](https://www.javatpoint.com/cpp-tutorial)
+- [C++ Language (cpluscplus.com)](https://cplusplus.com/doc/tutorial/)
+- [Learn C++ (codecademy.com)](https://www.codecademy.com/learn/learn-c-plus-plus?utm_source=ccblog&utm_medium=ccblog&utm_campaign=ccblog&utm_content=what_is_c_plus_plus_used_for_blog)
+- [C++ Coding Challenge (hackerrank.com)](https://www.hackerrank.com/domains/cpp)
 
 ------
 
